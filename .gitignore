@@ -53,12 +53,17 @@ topics/*
 
 research/*
 !research/.gitkeep
+!research/signal-*.md
 
 drafts/*
 !drafts/.gitkeep
+!drafts/signal/
+!drafts/signal/*.md
 
 published/*
 !published/.gitkeep
+!published/signal/
+!published/signal/*.md
 
 rewrites/*
 !rewrites/.gitkeep
