@@ -98,3 +98,21 @@ After crawl and indexation stabilizes for 8-16 weeks:
 - Yandex Business can add local discovery and branded actions, measured separately in the Business dashboard.
 
 Primary KPIs: indexed/canonical URL ratio, non-brand impressions, top-10 query count, category-to-product CTR, solution-assisted product visits, feed validity and local card actions.
+
+## Production release result
+
+Released on 2026-07-20 from the production-truth branch. Post-release checks confirmed:
+
+- 4,579 sitemap URLs: 4,167 products, 160 blog articles and 230 catalog URLs;
+- all four Yandex feed endpoints return HTTP 200 with 4,167 offers;
+- Google Merchant feed returns HTTP 200 with 4,167 items;
+- 24 published out-of-stock products map to exactly 24 Yandex offers with `available="false"`;
+- all 4,167 products have at least one image;
+- 35,341 product image variants and 530 blog images return HTTP 200 with an image content type;
+- `.jfif` media now uses `image/jpeg` instead of `application/octet-stream`;
+- homepage discount products, drone branches, the right-side/mobile filter, Apple Watch imagery, cart and checkout remain present;
+- category 289 (`Спецткани`) now describes SVMPE protective fabrics instead of radio equipment;
+- the visible homepage inventory claim is `4000+`, consistent with the live catalog;
+- production safety guard passes in normal and deep-image modes.
+
+The Yandex Business form is filled with the verified NAP draft. Publication remains blocked only by the owner's SMS/phone confirmation; no card is counted as live before that verification succeeds.
