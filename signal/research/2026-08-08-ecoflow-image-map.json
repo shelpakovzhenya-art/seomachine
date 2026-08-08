@@ -1,0 +1,82 @@
+{
+  "kakoy-ecoflow-vybrat-obzor-lineyki": {
+    "cover": "officialExact:extraBatteries-257",
+    "inline": ["officialExact:campingFridge-012", "officialExact:riverSeries-110", "officialExact:extraBatteries-256"]
+  },
+  "ecoflow-otzyvy-plyusy-i-minusy": {
+    "cover": "officialExact:extraBatteries-250",
+    "inline": ["officialExact:alternator-355", "officialExact:extraBatteries-252", "officialExact:extraBatteries-211"]
+  },
+  "ecoflow-instrukciya-pervyy-zapusk": {
+    "cover": "officialExact:deltaUltraFaq-009",
+    "inline": ["officialExact:riverSeries-114", "officialExact:riverSeries-112", "officialExact:deltaUltraFaq-011"]
+  },
+  "ecoflow-dlya-doma-kvartiry-i-dachi": {
+    "cover": "officialExact:homeRuntime-003",
+    "inline": ["officialExact:homeRuntime-001", "officialExact:homeRuntime-002", "officialExact:extraBatteries-251"]
+  },
+  "ecoflow-dlya-holodilnika-raschet": {
+    "cover": "officialExact:deltaUltraFaq-010",
+    "inline": ["officialExact:campingFridge-015", "officialExact:campingFridge-017", "officialExact:campingFridge-019"]
+  },
+  "ecoflow-dlya-gazovogo-kotla": {
+    "cover": "boiler:boiler-60",
+    "inline": ["boiler:boiler-195", "boiler:boiler-210", "boiler:boiler-270"]
+  },
+  "ecoflow-kak-ibp-ups": {
+    "cover": "officialExact:riverSeries-111",
+    "inline": ["officialExact:homeSizing-030", "officialExact:capacityUpgrade-073", "officialExact:extraBatteries-254"]
+  },
+  "ecoflow-dlya-kempinga": {
+    "cover": "officialExact:solarHowTo-079",
+    "inline": ["officialExact:campingFridge-020", "officialExact:riverSeries-113", "officialExact:campingFridge-013"]
+  },
+  "skolko-rabotaet-ecoflow": {
+    "cover": "officialExact:homeSizing-029",
+    "inline": ["officialExact:batteryGuide-059", "officialExact:riverSeries-115", "officialExact:extraBatteries-227"]
+  },
+  "solnechnaya-panel-ecoflow-kak-vybrat": {
+    "cover": "officialExact:solarHowTo-077",
+    "inline": ["officialExact:solarHowTo-078", "officialExact:batteryGuide-058", "officialExact:solarHowTo-080"]
+  },
+  "dopolnitelnaya-batareya-ecoflow": {
+    "cover": "officialExact:delta3ExtraBattery-160",
+    "inline": ["officialExact:extraBatteries-235", "officialExact:delta3ExtraBattery-154", "officialExact:extraBatteries-219"]
+  },
+  "akkumulyator-ecoflow-resurs-i-hranenie": {
+    "cover": "officialExact:extraBatteries-203",
+    "inline": ["officialExact:extraBatteries-239", "officialExact:batteryGuide-057", "officialExact:extraBatteries-255"]
+  },
+  "ecoflow-delta-3-obzor": {
+    "cover": "auto:delta-3-22-e8fef12dd8",
+    "inline": ["auto:delta-3-25-2168154876", "auto:delta-3-27-26fbbd9c44", "auto:delta-3-28-5dd1d517c3"]
+  },
+  "ecoflow-delta-3-ili-delta-3-plus": {
+    "cover": "auto:delta-3-23-f032a275a6",
+    "inline": ["auto:delta-3-24-e3adfb94aa", "manual:delta-home-living-room", "manual:delta-home-modern-room"]
+  },
+  "ecoflow-delta-3-max-ili-max-plus": {
+    "cover": "manual:delta-3-max-family-kitchen",
+    "inline": ["manual:delta-3-max-plus-family", "manual:delta-3-max-plus-kitchen", "auto:delta-3-max-02-1281ed2bdf"]
+  },
+  "ecoflow-delta-3-classic-ili-delta-3": {
+    "cover": "officialExact:outageGuide-006",
+    "inline": ["auto:delta-3-classic-02-07a3b5ebc0", "auto:delta-3-classic-05-619f644310", "auto:delta-3-17-bef48f88f1"]
+  },
+  "ecoflow-delta-3-1500-1000-air-2000-air": {
+    "cover": "officialExpanded:deltaAirCompare-258",
+    "inline": ["auto:delta-3-1500-20-0c66b1ceff", "officialExpanded:deltaAir1000-650", "officialExpanded:deltaAir2000-974"]
+  },
+  "ecoflow-river-3-plus-max-sravnenie": {
+    "cover": "officialExpanded:riverPlus-1154",
+    "inline": ["officialExpanded:riverPlus-1153", "officialExpanded:riverPlus-1148", "officialExpanded:riverPlus-1160"]
+  },
+  "ecoflow-glacier-classic-35-45-55": {
+    "cover": "manual:glacier-classic-outdoors",
+    "inline": ["manual:glacier-couple-camping", "manual:glacier-couple-outdoors", "manual:glacier-official-outdoors"]
+  },
+  "ecoflow-alternator-charger-500-800": {
+    "cover": "officialExact:alternator-344",
+    "inline": ["officialExact:alternator-340", "officialExact:alternator-367", "officialExact:alternator-369"]
+  }
+}
