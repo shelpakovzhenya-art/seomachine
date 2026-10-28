@@ -1,0 +1,218 @@
+{
+  "sourceBaseImage": "sha256:f86b8a71146ca50ccf432bb1582de866c96045c600620a9e280a00bdaec2641c",
+  "sourceBaseCommit": "124539ac63ae1f055c7c5f1c52137e3ecd813231",
+  "articles": [
+    {
+      "slug": "dji-mavic-4-pro-fly-more-combo-ili-baza",
+      "scope": "full-editorial-review",
+      "status": "ready-for-quality-check",
+      "machineDraft": "rewrites/dji-mavic-4-pro-fly-more-combo-ili-baza-rewrite-2026-10-28.md",
+      "originalPublicationDate": "2026-05-13",
+      "originalImage": "/blog-images/signal-blog-dji-mavic-4-pro-fly-more-combo-ili-baza-cover.png",
+      "beforeContentSha256": "e7d2aa23658fe0473e7c9f10bc947b163293283e5ab8ec24ce3d5f88d6301a40",
+      "afterContentSha256": "f8e412d3d98daacd3f3709406ad7e873fca10369fd74a6544bcabd3522925cd6",
+      "activeSkuIds": [
+        "4811",
+        "4812",
+        "6621"
+      ],
+      "sources": [
+        "https://store.dji.com/uk/product/dji-mavic-4-pro-fly-more-combo-dji-rc-2?set_region=GB",
+        "https://repair.dji.com/help/content?customId=01700012002&lang=en&paperDocType=ARTICLE&re=US&spaceId=17"
+      ],
+      "patch": {
+        "title": "DJI Mavic 4 Pro: базовый комплект или Fly More Combo",
+        "metaTitle": "Mavic 4 Pro: база или Fly More Combo | Сигнал",
+        "metaDescription": "Состав базового Mavic 4 Pro и Fly More Combo с RC 2: батареи, пропеллеры, адаптер, хаб и сумка. Чем отличается Only Drone и как сравнить доплату.",
+        "excerpt": "Состав базового Mavic 4 Pro и Fly More Combo с RC 2: батареи, пропеллеры, адаптер, хаб и сумка. Чем отличается Only Drone и как сравнить доплату.",
+        "content": "## Короткий ответ\n\nУ DJI Mavic 4 Pro с DJI RC 2 и Fly More Combo один и тот же дрон. В базовом наборе один аккумулятор, в Fly More — три, а также зарядный хаб и сумка. Пульт с экраном DJI RC 2 и адаптер 100 Вт входят в оба набора. Доплата имеет смысл, если вам нужны именно дополнительные предметы; камера от выбора этих двух комплектов не меняется.\n\n## Что входит в коробку\n\n| Предмет | DJI Mavic 4 Pro, RC 2 | Fly More Combo, RC 2 |\n| --- | --- | --- |\n| Дрон DJI Mavic 4 Pro | 1 | 1 |\n| Пульт DJI RC 2 | 1 | 1 |\n| Полётный аккумулятор | 1 | 3 |\n| Запасные пропеллеры | 1 пара | 4 пары |\n| Защитная крышка для хранения | 1 | 1 |\n| Кабель USB-C — USB-C | 2 | 2 |\n| Адаптер DJI USB-C 100 Вт | 1 | 1 |\n| Хаб параллельной зарядки | Нет | 1 |\n| Наплечная сумка | Нет | 1 |\n\nЭто заводской состав двух наборов DJI. Не смешивайте их с Creator Combo 512GB: у него другой вариант дрона, пульт RC Pro 2 и другое зарядное оборудование. Название «Mavic 4 Pro» без полного обозначения комплекта не определяет содержимое коробки.\n\n## Когда достаточно базового набора\n\nБаза подходит, если одного аккумулятора хватает для вашей съёмки или совместимые запасные батареи и сумка уже есть. В ней предусмотрены пульт и сетевой адаптер: докупать их только потому, что комплект называется базовым, не нужно.\n\nОткройте [базовый Mavic 4 Pro с RC 2](/product/kvadrokopter-dji-mavic-4-pro-dji-rc-2) и [Fly More Combo с RC 2](/product/kvadrokopter-dji-mavic-4-pro-fly-more-combo-dji-rc-2). Сравните текущую разницу цен со стоимостью тех аксессуаров, которые вам действительно нужны. Фиксированную экономию без актуальных цен считать нельзя.\n\n## Что дают три аккумулятора\n\nДополнительные батареи позволяют продолжить съёмку после замены разряженной. Они не превращают три отдельных вылета в один непрерывный полёт. Время на площадке зависит от условий, резерва для возвращения, замены батарей и возможности зарядки.\n\nХаб и сумка полезны для перевозки и подготовки комплекта. Если планируется зарядка от станции, отдельно проверьте мощность её USB-C или сетевого выхода: [как заряжать DJI на выезде](/blog/kak-zaryazhat-dron-dji-na-vyezde).\n\n## Чем отличается Only Drone\n\n[Mavic 4 Pro Only Drone](/product/kvadrokopter-dji-mavic-4-pro-only-drone) — отдельное предложение. Его нельзя считать базовым набором с RC 2: пульт, батарею и зарядку проверяют по собственной карточке. Такой вариант имеет смысл рассматривать вместе с уже имеющимся совместимым оборудованием, а не как готовую замену полному комплекту.\n\nВсе действующие варианты представлены в [категории DJI Mavic](/catalog/drony/dji-mavic).\n\n## Частые вопросы\n\n### У Fly More Combo лучше камера?\n\nНет: в этих двух комплектах RC 2 используется один и тот же Mavic 4 Pro. Отличается набор аксессуаров.\n\n### Нужно ли покупать сетевую зарядку к базовому набору?\n\nЗаводской Mavic 4 Pro с RC 2 включает адаптер DJI USB-C 100 Вт. Это отличается от наборов других серий DJI: переносить их состав на Mavic нельзя.\n\n### Fly More Combo всегда выгоднее?\n\nНет. Считайте по текущим ценам и нужным вам предметам. Если запасные батареи, хаб и сумка не нужны, их наличие само по себе не делает доплату полезной.\n\n## Источники и дата проверки\n\nПроверено 28 октября 2026 года: [официальный набор Fly More Combo RC 2](https://store.dji.com/uk/product/dji-mavic-4-pro-fly-more-combo-dji-rc-2?set_region=GB) и [руководство DJI с составом базового, Fly More и Creator Combo](https://repair.dji.com/help/content?customId=01700012002&lang=en&paperDocType=ARTICLE&re=US&spaceId=17). Ссылки на товары отражают текущий каталог Сигнала; заводской состав отделён от предложения Only Drone.",
+        "readTime": "3",
+        "reviewedAt": "2026-10-28",
+        "relatedProducts": [
+          {
+            "label": "Квадрокоптер DJI Mavic 4 Pro (DJI RC 2)",
+            "href": "/product/kvadrokopter-dji-mavic-4-pro-dji-rc-2"
+          },
+          {
+            "label": "Квадрокоптер DJI Mavic 4 Pro Fly More Combo (DJI RC 2)",
+            "href": "/product/kvadrokopter-dji-mavic-4-pro-fly-more-combo-dji-rc-2"
+          },
+          {
+            "label": "Квадрокоптер DJI Mavic 4 Pro Only Drone",
+            "href": "/product/kvadrokopter-dji-mavic-4-pro-only-drone"
+          },
+          {
+            "label": "Категория по теме",
+            "href": "/catalog/drony/dji-mavic"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "dji-neo-2-fly-more-combo-ili-baza",
+      "scope": "full-editorial-review",
+      "status": "ready-for-quality-check",
+      "machineDraft": "rewrites/dji-neo-2-fly-more-combo-ili-baza-rewrite-2026-10-28.md",
+      "originalPublicationDate": "2026-07-01",
+      "originalImage": "/blog-images/signal-blog-dji-mini-5-pro-vs-dji-neo-2-cover.png",
+      "beforeContentSha256": "9a2ac720da2017fa7f9eb8e6c4034d22e0c57d458811671ac604dfbed96f3380",
+      "afterContentSha256": "ad98f7e2d3afb4369fe052ebe52b472a56e67fbfe9ea97f1e655efc74c61f041",
+      "activeSkuIds": [
+        "4814",
+        "6199"
+      ],
+      "sources": [
+        "https://store.dji.com/sg/product/dji-neo-2-fly-more-combo?set_region=SG&site=brandsite&vid=205221",
+        "https://www.dji.com/se/neo-2/specs?set_region=SE",
+        "https://repair.dji.com/help/content?customId=01700043608&lang=en&paperDocType=ARTICLE&re=US&spaceId=17"
+      ],
+      "patch": {
+        "title": "DJI Neo 2: базовый комплект, Fly More или Motion",
+        "metaTitle": "DJI Neo 2: база, Fly More или Motion | Сигнал",
+        "metaDescription": "Сравниваем комплекты Neo 2: пульты RC-N3 и Motion 3, очки N3, батареи, трансивер и хаб. Почему дрону с памятью 49 ГБ не нужна карта microSD.",
+        "excerpt": "Сравниваем комплекты Neo 2: пульты RC-N3 и Motion 3, очки N3, батареи, трансивер и хаб. Почему дрону с памятью 49 ГБ не нужна карта microSD.",
+        "content": "## Короткий ответ\n\nДля простых автоматических съёмок без отдельного пульта можно рассматривать DJI Neo 2 Drone Only. Fly More Combo с RC-N3 добавляет обычный пульт, трансивер, три аккумулятора и зарядный хаб. Motion Fly More Combo рассчитан на управление через DJI RC Motion 3 и очки Goggles N3. Это разные способы управления, а не просто наборы с разным количеством батарей.\n\n## Три варианта комплекта\n\n| Основное отличие | Drone Only | Fly More Combo, RC-N3 | Motion Fly More Combo |\n| --- | --- | --- | --- |\n| DJI Neo 2 | 1 | 1 | 1 |\n| Аккумуляторы Neo 2 | 1 | 3 | 3 |\n| DJI RC-N3 | Нет | 1 | Нет |\n| DJI RC Motion 3 | Нет | Нет | 1 |\n| DJI Goggles N3 | Нет | Нет | 1 |\n| Digital Transceiver | Нет | 1 | 1 |\n| Двухсторонний зарядный хаб | Нет | 1 | 1 |\n\nВ наборы также входят предусмотренные DJI защитные и мелкие принадлежности. Полный перечень для продаваемых вариантов приведён в карточках [Neo 2 Fly More Combo](/product/kvadrokopter-dji-neo-2-fly-more-combo) и [Neo 2 Motion Fly More Combo](/product/kvadrokopter-dji-neo-2-motion-fly-more-combo).\n\nНа отдельных рынках встречается Fly More Combo с уточнением Drone Only. Он не равен набору с RC-N3. Перед сравнением цен проверяйте полное название и строку пульта: слово Fly More само по себе не обещает конкретный контроллер.\n\n## Память: microSD покупать не нужно\n\nУ DJI Neo 2 49 ГБ встроенной памяти; расширение картой microSD не поддерживается. Поэтому совет сразу докупить карту памяти к этому дрону неверен. Для длительной съёмки нужно предусмотреть выгрузку материала и свободное место во встроенном накопителе.\n\nЭто свойство Neo 2, а не отличие трёх рассматриваемых наборов. Большее число аккумуляторов не увеличивает объём памяти.\n\n## Как выбрать управление\n\nRC-N3 используют со смартфоном и DJI Fly. Такой комплект подходит, если нужен обычный пульт со стиками и просмотр изображения на телефоне. Проверьте совместимость телефона и нужный кабель до поездки.\n\nMotion Fly More выбирают, когда нужны очки Goggles N3 и motion-контроллер. Он не включает RC-N3 вместо RC Motion 3. Если уже есть оборудование DJI, совместимость проверяют по точным моделям, а не только по бренду.\n\nБазовый Drone Only не является продаваемой в Сигнале версией с тремя батареями. Текущий ассортимент смотрите в [категории DJI Neo](/catalog/drony/dji/dji-neo).\n\n## Что проверить перед покупкой\n\nСначала выберите способ управления. Затем сопоставьте количество батарей, наличие трансивера и хаба. Отдельно проверьте сетевой адаптер: зарядный хаб не является блоком питания из розетки. Сумку и аксессуары, не указанные в составе конкретного набора, не считайте включёнными.\n\nЕсли основной вопрос — выбор между компактными моделями, используйте [сравнение Mini 5 Pro и Neo 2](/blog/dji-mini-5-pro-vs-dji-neo-2). Для выбора комплекта возвращайтесь к точному перечню предметов, а не к общему совету «новичку база, для работы максимальный набор».\n\n## Частые вопросы\n\n### Чем Fly More отличается от Motion Fly More?\n\nВ продаваемом Fly More стоит RC-N3; в Motion Fly More — RC Motion 3 и Goggles N3. Оба содержат по три батареи, хаб и Digital Transceiver.\n\n### Поддерживает ли Neo 2 карту памяти?\n\nНет. Доступны 49 ГБ встроенной памяти без расширения microSD.\n\n### В обычном Fly More есть очки?\n\nВ рассматриваемом наборе с RC-N3 очков Goggles N3 нет. Они входят в Motion Fly More Combo.\n\n## Источники и дата проверки\n\nПроверено 28 октября 2026 года: [официальный магазин DJI, варианты Neo 2](https://store.dji.com/sg/product/dji-neo-2-fly-more-combo?set_region=SG&site=brandsite&vid=205221), [спецификации Neo 2, включая отсутствие расширения памяти](https://www.dji.com/se/neo-2/specs?set_region=SE) и [руководство DJI с коробками Drone Only, Fly More и Motion Fly More](https://repair.dji.com/help/content?customId=01700043608&lang=en&paperDocType=ARTICLE&re=US&spaceId=17). Точные составы продаваемых SKU сверены с ранее принятой предметной проверкой карточек Сигнала.",
+        "readTime": "3",
+        "reviewedAt": "2026-10-28",
+        "relatedProducts": [
+          {
+            "label": "Квадрокоптер DJI Neo 2 Fly More Combo",
+            "href": "/product/kvadrokopter-dji-neo-2-fly-more-combo"
+          },
+          {
+            "label": "Квадрокоптер DJI Neo 2 Motion Fly More Combo",
+            "href": "/product/kvadrokopter-dji-neo-2-motion-fly-more-combo"
+          },
+          {
+            "label": "Категория по теме",
+            "href": "/catalog/drony/dji/dji-neo"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "dji-mini-5-pro-fly-more-combo-plus-ili-baza",
+      "scope": "full-editorial-review",
+      "status": "ready-for-quality-check",
+      "machineDraft": "rewrites/dji-mini-5-pro-fly-more-combo-plus-ili-baza-rewrite-2026-10-28.md",
+      "originalPublicationDate": "2026-05-13",
+      "originalImage": "/blog-images/signal-blog-dji-mini-5-pro-fly-more-combo-plus-ili-baza-cover.png",
+      "beforeContentSha256": "3e172c20003ebec74f224e52f0e53bad88adca513d36b704f9d0f22fec9e41cd",
+      "afterContentSha256": "7632c7703709d01ab5d7d6ff2f5c60ecddafdc1ddb21d706c4f350548191a0e3",
+      "activeSkuIds": [
+        "4816"
+      ],
+      "sources": [
+        "https://store.dji.com/hk-en/product/dji-mini-5-pro-fly-more-combo-plus-dji-rc2?set_region=HK&site=brandsite&vid=199701",
+        "https://www.dji.com/uk/mini-5-pro/specs?set_region=GB&site=brandsite"
+      ],
+      "patch": {
+        "title": "DJI Mini 5 Pro: базовый набор или Fly More Combo Plus",
+        "metaTitle": "Mini 5 Pro: база или Fly More Combo Plus | Сигнал",
+        "metaDescription": "Точный состав Mini 5 Pro Combo Plus с RC 2, три Plus-батареи, ND-фильтры и зарядка. Масса выше 250 г, условия 52 минут и отличие от базовой версии.",
+        "excerpt": "Точный состав Mini 5 Pro Combo Plus с RC 2, три Plus-батареи, ND-фильтры и зарядка. Масса выше 250 г, условия 52 минут и отличие от базовой версии.",
+        "content": "## Короткий ответ\n\nFly More Combo Plus с DJI RC 2 включает три аккумулятора Intelligent Flight Battery Plus, пульт с экраном, зарядный хаб, ND-фильтры и сумку. Его важно отличать и от базового Mini 5 Pro, и от обычного Fly More Combo со стандартными батареями. В Сигнале представлен именно [Mini 5 Pro Fly More Combo Plus с RC 2](/product/kvadrokopter-dji-mini-5-pro-fly-more-combo-plus-dji-rc-2); заводской базовый вариант рассматривается здесь для сравнения.\n\n## Что входит в Combo Plus\n\n| Предмет | Количество |\n| --- | --- |\n| DJI Mini 5 Pro | 1 |\n| Пульт DJI RC 2 | 1 |\n| Intelligent Flight Battery Plus | 3 |\n| Двухсторонний зарядный хаб | 1 |\n| Набор ND8/32/128 | 1 |\n| Защитная крышка для хранения | 1 |\n| Запасные пропеллеры | 3 пары |\n| Наплечная сумка | 1 |\n| Кабель USB-C — USB-C | 1 |\n\nСетевой блок питания в этот заводской перечень не входит. Наличие кабеля и зарядного хаба не означает, что в коробке есть адаптер для розетки. Это нужно учесть в бюджете и подготовке к первой съёмке.\n\n## Что означает Plus\n\nPlus относится к аккумуляторам увеличенной ёмкости. DJI указывает до 52 минут полёта с Intelligent Flight Battery Plus и до 36 минут со стандартной батареей. Это результаты испытаний производителя, а не обещание такого времени в каждом полёте.\n\nМаксимум 52 минуты получен в контролируемом испытании при скорости 25,2 км/ч, в фоторежиме и до полного расходования заряда. В реальной съёмке нужен резерв на возвращение; ветер, температура и манёвры меняют расход.\n\nС батареей Plus взлётная масса Mini 5 Pro превышает 250 г. Значение 249,9 г стандартной конфигурации нельзя переносить на Combo Plus. Количество батарей в сумке и масса установленной батареи — разные параметры: на взлётную массу влияет именно установленная конфигурация.\n\n## Когда выбирать базовый набор\n\nБазовый заводской Mini 5 Pro имеет смысл сравнивать, если дополнительное оборудование не нужно или уже есть. При этом сначала проверяют его собственный пульт, тип батареи и состав коробки. Слово «база» не подтверждает совместимость аксессуаров от прежнего Mini.\n\nОтсутствующую в текущем каталоге базовую карточку эта статья не выдаёт за доступное предложение. Актуальные варианты смотрите в [разделе DJI Mini](/catalog/drony/dji-mini).\n\n## Когда полезен Combo Plus\n\nТри батареи дают возможность продолжить съёмку после замены разряженной, а хаб и сумка помогают организовать комплект. Пульт RC 2 имеет собственный экран. При выборе оцените, нужны ли все эти предметы и подходит ли вам масса с Plus-батареей.\n\nЕсли главный вопрос — выбор самой модели, а не батарей и аксессуаров, сначала сравните [Mini 5 Pro с Neo 2](/blog/dji-mini-5-pro-vs-dji-neo-2). Компактность корпуса сама по себе не делает эти дроны взаимозаменяемыми.\n\n## Частые вопросы\n\n### Fly More Combo и Fly More Combo Plus — одно и то же?\n\nНет. В рассматриваемом Combo Plus стоят три Intelligent Flight Battery Plus. Полное название батареи проверяйте вместе с названием пульта.\n\n### Combo Plus остаётся легче 250 г?\n\nНет. Установленная батарея Plus увеличивает взлётную массу выше 250 г. Массу стандартной конфигурации использовать для неё нельзя.\n\n### В наборе есть сетевой адаптер?\n\nВ опубликованном DJI составе Combo Plus его нет. Включены хаб и USB-C кабель; совместимый блок питания подбирают отдельно.\n\n## Источники и дата проверки\n\nПроверено 28 октября 2026 года: [официальный состав Combo Plus RC 2](https://store.dji.com/hk-en/product/dji-mini-5-pro-fly-more-combo-plus-dji-rc2?set_region=HK&site=brandsite&vid=199701) и [спецификации Mini 5 Pro с условиями испытаний батарей](https://www.dji.com/uk/mini-5-pro/specs?set_region=GB&site=brandsite). Состав, Plus-батареи и граница массы согласованы с принятой карточкой SKU 4816.",
+        "readTime": "3",
+        "reviewedAt": "2026-10-28",
+        "relatedProducts": [
+          {
+            "label": "Квадрокоптер DJI Mini 5 Pro Fly More Combo Plus (DJI RC 2)",
+            "href": "/product/kvadrokopter-dji-mini-5-pro-fly-more-combo-plus-dji-rc-2"
+          },
+          {
+            "label": "Категория по теме",
+            "href": "/catalog/drony/dji-mini"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "dji-air-3s-fly-more-combo-ili-baza",
+      "scope": "full-editorial-review",
+      "status": "ready-for-quality-check",
+      "machineDraft": "rewrites/dji-air-3s-fly-more-combo-ili-baza-rewrite-2026-10-28.md",
+      "originalPublicationDate": "2026-07-01",
+      "originalImage": "/blog-images/signal-blog-dji-air-3s-ili-dji-mini-5-pro-cover-live.jpg",
+      "beforeContentSha256": "49888e52f6ae3acea0bda55b2d2eb0db6bc0be973fb3332096d1ddfabf4f853a",
+      "afterContentSha256": "d7f9592990a6e87a43902d4ac199f1f820784ad86e3b3b4caf3ddbe10c115f4d",
+      "activeSkuIds": [],
+      "sources": [
+        "https://store.dji.com/product/dji-air-3s",
+        "https://store.dji.com/au/product/dji-air-3s-fly-more-combo-rc-2?from=store_homepage",
+        "https://repair.dji.com/help/content?customId=en-us03400011450&spaceId=34"
+      ],
+      "patch": {
+        "title": "DJI Air 3S: базовый комплект или Fly More Combo",
+        "metaTitle": "DJI Air 3S: база или Fly More Combo | Сигнал",
+        "metaDescription": "Состав Air 3S с RC-N3 и двух Fly More: батареи, пульт, ND-фильтры, хаб и сумка. Что нужно для зарядки и почему название набора не определяет выгоду.",
+        "excerpt": "Состав Air 3S с RC-N3 и двух Fly More: батареи, пульт, ND-фильтры, хаб и сумка. Что нужно для зарядки и почему название набора не определяет выгоду.",
+        "content": "## Короткий ответ\n\nУ Air 3S базовый набор с RC-N3 содержит один аккумулятор. В Fly More Combo их три; также добавлены зарядный хаб, ND-фильтры и сумка. Fly More бывает с RC-N3 под смартфон и с RC 2 со встроенным экраном. Сравнивать цену только по словам «база» и Fly More нельзя: сначала нужно определить пульт и состав коробки.\n\n## Состав трёх заводских вариантов\n\n| Предмет | Air 3S, RC-N3 | Fly More, RC-N3 | Fly More, RC 2 |\n| --- | --- | --- | --- |\n| DJI Air 3S | 1 | 1 | 1 |\n| Пульт RC-N3 | 1 | 1 | Нет |\n| Пульт RC 2 | Нет | Нет | 1 |\n| Полётный аккумулятор | 1 | 3 | 3 |\n| Запасные пропеллеры | 1 пара | 3 пары | 3 пары |\n| Защита подвеса | 1 | 1 | 1 |\n| Кабель USB-C — USB-C PD | 1 | 1 | 1 |\n| Кабели пульта USB-C и Lightning | По 1 | По 1 | Не нужны для телефона |\n| Зарядный хаб | Нет | 1 | 1 |\n| Набор ND8/32/128 | Нет | 1 | 1 |\n| Наплечная сумка | Нет | 1 | 1 |\n\nСетевой USB-C адаптер покупается отдельно: DJI прямо указывает, что он нужен для зарядки, а комплектный PD-кабель не заменяет источник питания. Это отличие Air 3S от других наборов DJI, в которых адаптер может входить в коробку.\n\n## Базовый набор: что вы экономите\n\nБаза имеет смысл, если нужен один аккумулятор или совместимые аксессуары уже есть. При этом дополнительные батареи, хаб и сумку считают отдельно. Автоматического правила «база для новичка» нет: новичку тоже может понадобиться запас батарей, а опытному владельцу — только один дрон с пультом.\n\nОбычный Fly More не меняет камеру Air 3S. Его отличие — количество батарей и аксессуары. Чтобы определить финансовую выгоду, сравните текущие цены полного набора и действительно нужных вам предметов по отдельности.\n\n## RC-N3 или RC 2\n\nRC-N3 использует экран подключённого телефона и приложение DJI Fly. RC 2 имеет собственный экран. Пульт выбирают с учётом телефона, удобства просмотра и уже имеющегося оборудования, а не только размера комплекта.\n\nПодробности — в руководстве [DJI RC 2 или RC-N3](/blog/dji-rc-2-ili-rc-n3-kakoy-pult-vybrat). Совместимость всегда проверяйте для Air 3S и конкретной версии пульта.\n\n## Что есть в Сигнале сейчас\n\nЭта статья сравнивает заводские варианты Air 3S. В текущем каталоге Сигнала действующего SKU Air 3S нет, поэтому сравнение не является обещанием наличия базовой версии или Fly More. Опубликованные предложения доступны в [каталоге дронов DJI](/catalog/drony/dji).\n\nЕсли вы выбираете между разными моделями, используйте [Air 3S или Mini 5 Pro](/blog/dji-air-3s-ili-dji-mini-5-pro). Для уже выбранного Air 3S вернитесь к таблице: полезность комплекта определяется нужными батареями, пультом и зарядкой.\n\n## Частые вопросы\n\n### В Fly More всегда пульт с экраном?\n\nНет. Есть Fly More с RC-N3 и с RC 2. Экран встроен в RC 2; RC-N3 работает с телефоном.\n\n### Зарядный хаб заменяет адаптер питания?\n\nНет. Хаб нужен для зарядки батарей, но ему требуется внешний источник питания. Комплектный кабель тоже не является сетевым адаптером.\n\n### Fly More увеличивает время одного полёта?\n\nНет. Он даёт дополнительные аккумуляторы для отдельных вылетов. Их суммарный заряд нельзя выдавать за непрерывное время в воздухе.\n\n## Источники и дата проверки\n\nПроверено 28 октября 2026 года: [базовый Air 3S RC-N3](https://store.dji.com/product/dji-air-3s), [Fly More Combo RC 2](https://store.dji.com/au/product/dji-air-3s-fly-more-combo-rc-2?from=store_homepage) и [руководство DJI с тремя коробками и требованиями к зарядке](https://repair.dji.com/help/content?customId=en-us03400011450&spaceId=34). Наличие Air 3S отдельно сверено с текущим каталогом Сигнала.",
+        "readTime": "3",
+        "reviewedAt": "2026-10-28",
+        "relatedProducts": [
+          {
+            "label": "Категория по теме",
+            "href": "/catalog/drony/dji"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "dji-osmo-pocket-4-stoit-li-pokupat",
+      "scope": "full-editorial-review",
+      "status": "ready-for-quality-check",
+      "machineDraft": "rewrites/dji-osmo-pocket-4-stoit-li-pokupat-rewrite-2026-10-28.md",
+      "originalPublicationDate": "2026-06-10",
+      "originalImage": "/blog-images/signal-blog-dji-osmo-pocket-4-stoit-li-pokupat-cover.png",
+      "beforeContentSha256": "b6147a5c19f1de91321cc4fb77268cf63e8ddcabe0bf0478daf77d284d9eaaec",
+      "afterContentSha256": "91a0b0f54b809037b1b7ff545b81e89e6dbaabb31d9d8c9754e436113754ec55",
+      "activeSkuIds": [
+        "6241",
+        "5244"
+      ],
+      "sources": [
+        "https://www.dji.com/uk/osmo-pocket-4/specs?set_region=GB&site=brandsite",
+        "https://store.dji.com/uk/product/osmo-pocket-4?set_region=GB&site=brandsite",
+        "https://store.dji.com/uk/product/osmo-pocket-4-creator-combo?set_region=GB&site=brandsite&vid=218481"
+      ],
+      "patch": {
+        "title": "DJI Osmo Pocket 4: возможности, Standard и Creator Combo",
+        "metaTitle": "Pocket 4: Standard или Creator Combo | Сигнал",
+        "metaDescription": "Возможности DJI Pocket 4 и состав Standard и Creator: Mic 3, свет, насадка и штатив. Память 107 ГБ, запись 4K и точные условия работы до 240 минут.",
+        "excerpt": "Возможности DJI Pocket 4 и состав Standard и Creator: Mic 3, свет, насадка и штатив. Память 107 ГБ, запись 4K и точные условия работы до 240 минут.",
+        "content": "## Короткий ответ\n\nDJI Osmo Pocket 4 — карманная камера с механическим стабилизатором для съёмки с руки: прогулок, обращений в камеру, товаров и поездок. Standard и Creator Combo используют одну и ту же камеру. Creator добавляет один передатчик DJI Mic 3 с принадлежностями, широкоугольную насадку, мини-штатив, свет и сумку. Выбирать между наборами нужно по этим предметам, а не по ожиданию другой матрицы или качества видео.\n\n## Основные возможности и ограничения\n\n| Параметр | Что предусмотрено |\n| --- | --- |\n| Обычная запись 4K | До 60 кадров/с |\n| Замедленная запись 4K | До 240 кадров/с; отдельный режим съёмки |\n| Доступная встроенная память | 107 ГБ |\n| Карта памяти | microSD до 1 ТБ |\n| Масса камеры | 190,5 г без принадлежностей |\n| Заявленное время работы | До 240 минут в условиях теста DJI |\n\nПоказатель 240 минут измерен при 25 °C, записи 1080p/24, отключённых Wi-Fi и экране. Он не означает четыре часа работы в любом режиме, особенно при 4K и иной частоте кадров. Для своей съёмки планируйте питание с запасом, а не по одному максимальному числу.\n\nВстроенные 107 ГБ и возможность установить microSD — разные способы хранения. Наличие поддержки карты не означает, что карта включена в заводскую коробку.\n\n## Standard Combo и Creator Combo: состав коробки\n\n| Предмет | Standard | Creator |\n| --- | --- | --- |\n| Камера Osmo Pocket 4 | 1 | 1 |\n| Кабель USB-C — USB-C PD, USB 3.1 | 1 | 1 |\n| Фиксатор стабилизатора | 1 | 1 |\n| Ремешок DJI на запястье | 1 | 1 |\n| Ручка с резьбой 1/4 дюйма | 1 | 1 |\n| Портативный чехол | 1 | 1 |\n| Передатчик DJI Mic 3 | Нет | 1 |\n| Магнитный зарядный кабель передатчика | Нет | 1 |\n| Магнит DJI Mic 3 | Нет | 1 |\n| Магнитный зажим DJI Mic 3 | Нет | 1 |\n| Ветрозащита Mic 3, чёрная | Нет | 1 |\n| Ветрозащита Mic 3, чёрно-серая | Нет | 1 |\n| Osmo Pocket 3 Wide-Angle Lens | Нет | 1 |\n| Osmo Mini Tripod | Нет | 1 |\n| Osmo Pocket 4 Fill Light | Нет | 1 |\n| Osmo Pocket 4 Carrying Bag | Нет | 1 |\n\nНазвание Osmo Pocket 3 Wide-Angle Lens сохранено так, как оно указано в составе Creator Combo для Pocket 4. Это не другая камера в коробке. Обычная ручка с резьбой не является аккумуляторной рукояткой.\n\nВ Creator входит один передатчик Mic 3. Полный отдельный набор Mic 3 с двумя передатчиками и приёмником в этот перечень не входит. Сетевой адаптер, карта памяти и аккумуляторная рукоятка также не указаны в заводском составе этих двух наборов.\n\n## Когда достаточно Standard\n\n[Standard Combo](/product/ekshn-kamera-dji-osmo-pocket-4-standard-combo) подходит, если нужна сама камера с базовыми принадлежностями, а микрофон, свет или штатив уже есть либо не нужны. Качество самой камеры не становится ниже из-за отсутствия аксессуаров Creator.\n\nДо заказа отдельно определите, куда будете сохранять материал, чем заряжать камеру и нужен ли отдельный микрофон. Не добавляйте карту и сетевой блок в предполагаемую комплектацию автоматически.\n\n## Когда полезен Creator\n\n[Creator Combo](/product/ekshn-kamera-dji-osmo-pocket-4-creator-combo) имеет смысл, если вам нужен именно его набор: микрофон для речи, мини-штатив, небольшой свет и широкоугольная насадка. Сравните текущую доплату со стоимостью нужных вам аксессуаров по отдельности. Универсальную экономию без актуальных цен обещать нельзя.\n\nЕсли важны крепление на шлем, вода или удары, оценивайте соответствующие требования отдельно. Механический стабилизатор Pocket не является доказательством водозащиты или ударопрочности. Другие предложения смотрите в [категории фото и видео](/catalog/foto-i-video).\n\n## Частые вопросы\n\n### В Creator лучше камера?\n\nНет. Рассматриваемые Standard и Creator отличаются набором принадлежностей, а не камерой.\n\n### В Creator есть отдельный приёмник Mic 3?\n\nВ заводском перечне Creator указан один передатчик Mic 3 и его принадлежности. Отдельный приёмник не перечислен.\n\n### Можно рассчитывать на четыре часа записи 4K?\n\nЗаявленные 240 минут относятся к конкретному тесту 1080p/24 при 25 °C с отключёнными экраном и Wi-Fi. Переносить результат на любую запись 4K нельзя.\n\n## Источники и дата проверки\n\nПроверено 28 октября 2026 года: [спецификации DJI Pocket 4](https://www.dji.com/uk/osmo-pocket-4/specs?set_region=GB&site=brandsite), [состав Standard](https://store.dji.com/uk/product/osmo-pocket-4?set_region=GB&site=brandsite) и [состав Creator Combo](https://store.dji.com/uk/product/osmo-pocket-4-creator-combo?set_region=GB&site=brandsite&vid=218481). Значения и комплекты согласованы с принятой партией карточек Standard 6241 и Creator 5244, revision 527.",
+        "readTime": "4",
+        "reviewedAt": "2026-10-28",
+        "relatedProducts": [
+          {
+            "label": "Экшн-камера DJI Osmo Pocket 4 Standard Combo",
+            "href": "/product/ekshn-kamera-dji-osmo-pocket-4-standard-combo"
+          },
+          {
+            "label": "Экшн-камера DJI Osmo Pocket 4 Creator combo",
+            "href": "/product/ekshn-kamera-dji-osmo-pocket-4-creator-combo"
+          },
+          {
+            "label": "Категория по теме",
+            "href": "/catalog/foto-i-video"
+          }
+        ],
+        "category": "photo-video"
+      }
+    },
+    {
+      "slug": "dji-air-3s-ili-dji-air-3",
+      "scope": "h1-only",
+      "status": "ready-for-quality-check",
+      "originalPublicationDate": "2026-07-31",
+      "originalImage": "/blog-images/dji-air-3s-ili-dji-air-3-cover-v2.jpg",
+      "beforeContentSha256": "5a7d78441efca64ea7196d8111733da6cfc67bc5f46c613f8a731ea36906ce24",
+      "afterContentSha256": "5a7d78441efca64ea7196d8111733da6cfc67bc5f46c613f8a731ea36906ce24",
+      "activeSkuIds": [],
+      "sources": [],
+      "patch": {
+        "title": "DJI Air 3S или DJI Air 3: сравнение дронов"
+      }
+    }
+  ]
+}
