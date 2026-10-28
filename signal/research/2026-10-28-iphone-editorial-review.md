@@ -21,7 +21,7 @@ Primary sources:Appleiphone17specs;AppleSupport108044(modelcapacities),108429(st
 Коммерческиессылкиотобраныпоактивномукаталогупроизводства. Производительские
 ёмкости/правилаотделеныотусловныхпримеровиналичияконкретногоSKU.
 
-Публикацияпокаожидаетзеркалирования/сборки/кандидата/productionприёмки.
+Опубликовано28.10.2026в14:02:24МСК,source7e682ac. Production3/3полныйHTML/schema/metadata/даты/ссылки/sitemappass;общиеcommerce/CSS/feedspass. СтарыйsitemaplastmodвNginxcacheобновилсяштатно;послеповторапроверкапрошла. ПротоколIPHONE_GUIDES_RELEASE_20261028.mdвSignalworkspace. Другие217статей/3решениянеизменены.
 
 Только эти три фактически проверенных текста получаютreviewedAt28.10.2026:
 видимая дата проверки,Article.dateModified,OGmodifiedTime и sitemaplastmod.

@@ -6,9 +6,11 @@ slug: "/blog/iphone-17-256-ili-512-gb"
 category: "smartphones"
 date: "2026-05-28"
 reviewed_at: "2026-10-28"
-status: "reviewed-unpublished"
+status: "published-production"
 read_time: "5"
 image: "/blog-images/iphone-17-256-ili-512-gb.png"
+tags: ["iPhone 17", "Apple", "память iPhone", "смартфоны", "гид покупателя"]
+keywords: ["iphone 17 256 или 512", "iphone 17 pro 256 или 512", "iphone 17 pro max 256 или 512", "айфон 17 256 или 512", "сколько памяти брать iPhone 17"]
 ---
 iPhone 17 выпускается с накопителем 256 или 512 ГБ. Выбирайте объём по своим файлам: сколько уже занято, что необходимо хранить офлайн и сколько новых материалов появится до следующей выгрузки. Утверждение «256 ГБ хватит большинству на несколько лет» не заменяет такой расчёт.
 

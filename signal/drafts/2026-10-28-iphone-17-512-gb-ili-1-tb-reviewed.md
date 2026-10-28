@@ -6,9 +6,11 @@ slug: "/blog/iphone-17-512-gb-ili-1-tb"
 category: "smartphones"
 date: "2026-06-26"
 reviewed_at: "2026-10-28"
-status: "reviewed-unpublished"
+status: "published-production"
 read_time: "5"
 image: "/blog-images/signal-blog-iphone-17-512-gb-ili-1-tb-cover-dedup.jpg"
+tags: ["iPhone 17", "iPhone 17 Pro Max", "512 ГБ", "1 ТБ", "Apple"]
+keywords: ["iphone 17 512 или 1tb", "купить iphone 512", "купить iphone 1tb", "iphone 17 pro max 512 купить", "iphone 17 1tb купить"]
 ---
 У обычного iPhone 17 есть две заводские ёмкости: 256 и 512 ГБ. Версии iPhone 17 на 1 ТБ у Apple нет. Если нужен терабайт, это уже выбор другой модели: например, iPhone 17 Pro, iPhone 17 Pro Max или iPhone Air. Сравнивать их с базовым iPhone 17 только по памяти неправильно: меняются и другие характеристики.
 

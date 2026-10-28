@@ -173,6 +173,7 @@ for slug,patch in docs.items():
     old=articles[slug]; assert patch['content'].endswith('\n')
     metadata={'title':patch['title'],'meta_title':patch['metaTitle'],'meta_description':patch['metaDescription'],'slug':'/blog/'+slug,'category':old['category'],'date':old['date'],'reviewed_at':'2026-10-28','status':'reviewed-unpublished','read_time':patch['readTime'],'image':old['image']}
     draft=S/'drafts'/('2026-10-28-'+slug+'-reviewed.md'); assert not draft.exists()
+    metadata.update({'tags':old.get('tags',[]),'keywords':old.get('keywords',[])})
     front='---\n'+'\n'.join(k+': '+json.dumps(v,ensure_ascii=False) for k,v in metadata.items())+'\n---\n'
     draft.write_text(front+patch['content'],encoding='utf-8')
     rows.append({'slug':slug,'draft':str(draft),'beforeContentSha256':hashlib.sha256(old['content'].encode()).hexdigest(),'afterContentSha256':hashlib.sha256(patch['content'].rstrip('\n').encode()).hexdigest(),'originalPublicationDate':old['date'],'reviewedAt':'2026-10-28','patch':patch,'status':'reviewed-unpublished'})

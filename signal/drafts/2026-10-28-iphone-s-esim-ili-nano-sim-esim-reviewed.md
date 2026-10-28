@@ -6,9 +6,11 @@ slug: "/blog/iphone-s-esim-ili-nano-sim-esim"
 category: "smartphones"
 date: "2026-06-25"
 reviewed_at: "2026-10-28"
-status: "reviewed-unpublished"
+status: "published-production"
 read_time: "5"
 image: "/blog-images/signal-blog-iphone-s-esim-ili-nano-sim-esim-cover-live.jpg"
+tags: ["iPhone", "eSIM", "nano-SIM", "Apple", "смартфоны"]
+keywords: ["iphone esim купить", "iphone nano sim esim купить", "iphone с esim", "iphone 17 esim купить", "какой iphone с sim выбрать"]
 ---
 Выбирайте SIM-версию iPhone по двум условиям: какой формат поддерживает конкретное устройство и как ваш оператор подключает или переносит номер. Надпись Dual SIM не определяет число физических карт: для разных моделей и рынков используются разные сочетания SIM и eSIM.
 
