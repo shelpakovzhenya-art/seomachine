@@ -5,7 +5,7 @@
   "articles": [
     {
       "slug": "iphone-17-air-ili-iphone-17",
-      "status": "ready-for-quality-check",
+      "status": "published-production",
       "scope": "full-editorial-review",
       "machineDraft": "2026-10-28-iphone-air-vs-17.md",
       "originalPublicationDate": "2026-07-01",
@@ -54,11 +54,15 @@
           }
         ],
         "reviewedAt": "2026-10-28"
-      }
+      },
+      "publishedAt": "2026-10-28T13:44:32Z",
+      "acceptedAt": "2026-10-28T14:08:18.840170+00:00",
+      "sourceCommit": "124539ac63ae1f055c7c5f1c52137e3ecd813231",
+      "image": "sha256:f86b8a71146ca50ccf432bb1582de866c96045c600620a9e280a00bdaec2641c"
     },
     {
       "slug": "kakoy-iphone-kupit-2026",
-      "status": "ready-for-quality-check",
+      "status": "published-production",
       "scope": "full-editorial-review",
       "machineDraft": "2026-10-28-kakoy-iphone-vybrat.md",
       "originalPublicationDate": "2026-05-18",
@@ -121,11 +125,15 @@
           }
         ],
         "reviewedAt": "2026-10-28"
-      }
+      },
+      "publishedAt": "2026-10-28T13:44:32Z",
+      "acceptedAt": "2026-10-28T14:08:18.841224+00:00",
+      "sourceCommit": "124539ac63ae1f055c7c5f1c52137e3ecd813231",
+      "image": "sha256:f86b8a71146ca50ccf432bb1582de866c96045c600620a9e280a00bdaec2641c"
     },
     {
       "slug": "galaxy-z-flip7-ili-iphone-17-air",
-      "status": "ready-for-quality-check",
+      "status": "published-production",
       "scope": "identity-and-existing-air-category-link-only",
       "originalPublicationDate": "2026-05-31",
       "originalImage": "/blog-images/galaxy-z-flip7-ili-iphone-17-air.png",
@@ -169,7 +177,11 @@
             "href": "/catalog/smartfony"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-28T13:44:32Z",
+      "acceptedAt": "2026-10-28T14:08:18.841902+00:00",
+      "sourceCommit": "124539ac63ae1f055c7c5f1c52137e3ecd813231",
+      "image": "sha256:f86b8a71146ca50ccf432bb1582de866c96045c600620a9e280a00bdaec2641c"
     }
   ],
   "coversVisuallyReviewedAndPreserved": true,
