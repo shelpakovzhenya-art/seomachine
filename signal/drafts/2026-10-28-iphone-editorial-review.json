@@ -1,0 +1,156 @@
+{
+  "checkedAt": "2026-10-28",
+  "articles": 3,
+  "linksChecked": 21,
+  "passed": true,
+  "links": [
+    {
+      "url": "https://signalmsk.com/blog/iphone-17-256-ili-512-gb",
+      "status": 200,
+      "finalUrl": "https://signalmsk.com/blog/iphone-17-256-ili-512-gb",
+      "sameRole": true
+    },
+    {
+      "url": "https://signalmsk.com/blog/iphone-17-512-gb-ili-1-tb",
+      "status": 200,
+      "finalUrl": "https://signalmsk.com/blog/iphone-17-512-gb-ili-1-tb",
+      "sameRole": true
+    },
+    {
+      "url": "https://signalmsk.com/blog/iphone-s-esim-ili-nano-sim-esim",
+      "status": 200,
+      "finalUrl": "https://signalmsk.com/blog/iphone-s-esim-ili-nano-sim-esim",
+      "sameRole": true
+    },
+    {
+      "url": "https://signalmsk.com/blog/kak-proverit-novyi-iphone-pered-pokupkoy",
+      "status": 200,
+      "finalUrl": "https://signalmsk.com/blog/kak-proverit-novyi-iphone-pered-pokupkoy",
+      "sameRole": true
+    },
+    {
+      "url": "https://signalmsk.com/catalog/smartfony",
+      "status": 200,
+      "finalUrl": "https://signalmsk.com/catalog/smartfony",
+      "sameRole": true
+    },
+    {
+      "url": "https://signalmsk.com/product/apple-iphone-17e-256gb-black-esim",
+      "status": 200,
+      "finalUrl": "https://signalmsk.com/product/apple-iphone-17e-256gb-black-esim",
+      "sameRole": true
+    },
+    {
+      "url": "https://signalmsk.com/product/apple-iphone-17e-256gb-white-nano-sim-esim",
+      "status": 200,
+      "finalUrl": "https://signalmsk.com/product/apple-iphone-17e-256gb-white-nano-sim-esim",
+      "sameRole": true
+    },
+    {
+      "url": "https://signalmsk.com/product/smartfon-apple-iphone-17-256-gb-goluboi-mist-blue",
+      "status": 200,
+      "finalUrl": "https://signalmsk.com/product/smartfon-apple-iphone-17-256-gb-goluboi-mist-blue",
+      "sameRole": true
+    },
+    {
+      "url": "https://signalmsk.com/product/smartfon-apple-iphone-17-512-gb-goluboi-mist-blue",
+      "status": 200,
+      "finalUrl": "https://signalmsk.com/product/smartfon-apple-iphone-17-512-gb-goluboi-mist-blue",
+      "sameRole": true
+    },
+    {
+      "url": "https://signalmsk.com/product/smartfon-apple-iphone-17-pro-1-tb-deep-blue-glubokii-sinii",
+      "status": 200,
+      "finalUrl": "https://signalmsk.com/product/smartfon-apple-iphone-17-pro-1-tb-deep-blue-glubokii-sinii",
+      "sameRole": true
+    },
+    {
+      "url": "https://signalmsk.com/product/smartfon-apple-iphone-17-pro-512-gb-deep-blue-glubokii-sinii",
+      "status": 200,
+      "finalUrl": "https://signalmsk.com/product/smartfon-apple-iphone-17-pro-512-gb-deep-blue-glubokii-sinii",
+      "sameRole": true
+    },
+    {
+      "url": "https://support.apple.com/en-us/102670",
+      "status": 200,
+      "finalUrl": "https://support.apple.com/en-us/102670",
+      "sameRole": true
+    },
+    {
+      "url": "https://support.apple.com/en-us/105061",
+      "status": 200,
+      "finalUrl": "https://support.apple.com/en-us/105061",
+      "sameRole": true
+    },
+    {
+      "url": "https://support.apple.com/en-us/106343",
+      "status": 200,
+      "finalUrl": "https://support.apple.com/en-us/106343",
+      "sameRole": true
+    },
+    {
+      "url": "https://support.apple.com/en-us/108044",
+      "status": 200,
+      "finalUrl": "https://support.apple.com/en-us/108044",
+      "sameRole": true
+    },
+    {
+      "url": "https://support.apple.com/en-us/108429",
+      "status": 200,
+      "finalUrl": "https://support.apple.com/en-us/108429",
+      "sameRole": true
+    },
+    {
+      "url": "https://support.apple.com/en-us/109316",
+      "status": 200,
+      "finalUrl": "https://support.apple.com/en-us/109316",
+      "sameRole": true
+    },
+    {
+      "url": "https://support.apple.com/en-us/109317",
+      "status": 200,
+      "finalUrl": "https://support.apple.com/en-us/109317",
+      "sameRole": true
+    },
+    {
+      "url": "https://support.apple.com/en-us/118227",
+      "status": 200,
+      "finalUrl": "https://support.apple.com/en-us/118227",
+      "sameRole": true
+    },
+    {
+      "url": "https://support.apple.com/en-us/118669",
+      "status": 200,
+      "finalUrl": "https://support.apple.com/en-us/118669",
+      "sameRole": true
+    },
+    {
+      "url": "https://www.apple.com/iphone-17/specs/",
+      "status": 200,
+      "finalUrl": "https://www.apple.com/iphone-17/specs/",
+      "sameRole": true
+    }
+  ],
+  "qualityChecks": [
+    "Apple model capacities",
+    "conditional memory arithmetic",
+    "no operator/region inferred from Dual SIM",
+    "original publication dates preserved",
+    "no URLs changed",
+    "all category/product/source links200"
+  ],
+  "metadataLengths": {
+    "iphone-17-512-gb-ili-1-tb": {
+      "title": 55,
+      "description": 141
+    },
+    "iphone-17-256-ili-512-gb": {
+      "title": 48,
+      "description": 143
+    },
+    "iphone-s-esim-ili-nano-sim-esim": {
+      "title": 52,
+      "description": 149
+    }
+  }
+}
