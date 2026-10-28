@@ -5,6 +5,7 @@ import json, re, hashlib, requests, csv
 S=Path(__file__).resolve().parents[1];R=Path('C:/Users/della/orca/projects/signal/reports/seo-implementation-20261026')
 path=S/'drafts/2026-10-28-iphone-editorial-pack.json';d=json.loads(path.read_text(encoding='utf-8'))
 for row in d['articles']:
+    row['patch']['reviewedAt']='2026-10-28'
     if row['slug']=='iphone-s-esim-ili-nano-sim-esim':
         old='[проверка блокировки оператора](https://support.apple.com/en-us/109316).'
         new='[проверка блокировки оператора](https://support.apple.com/en-us/109316), [две линии и мобильные данные](https://support.apple.com/en-us/109317), [eSIM в поездках](https://support.apple.com/en-us/118227).'

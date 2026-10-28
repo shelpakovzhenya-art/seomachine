@@ -169,6 +169,7 @@ iCloud и память телефона — разные хранилища. О�
 }
 rows=[]
 for slug,patch in docs.items():
+    patch['reviewedAt']='2026-10-28'
     old=articles[slug]; assert patch['content'].endswith('\n')
     metadata={'title':patch['title'],'meta_title':patch['metaTitle'],'meta_description':patch['metaDescription'],'slug':'/blog/'+slug,'category':old['category'],'date':old['date'],'reviewed_at':'2026-10-28','status':'reviewed-unpublished','read_time':patch['readTime'],'image':old['image']}
     draft=S/'drafts'/('2026-10-28-'+slug+'-reviewed.md'); assert not draft.exists()
