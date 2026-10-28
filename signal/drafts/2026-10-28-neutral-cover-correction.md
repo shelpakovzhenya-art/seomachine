@@ -1,6 +1,8 @@
 ---
 type: metadata-patch
-status: ready-to-publish
+status: published
+published_at: 2026-10-28T11:45:56+03:00
+published_source_commit: bedb360f337224fd474897f3e12ed9e91cdab06e
 checked_at: 2026-10-28
 url: https://signalmsk.com/blog/avtomobilnyi-reb-romashka-garpiya-ili-stanciya
 workflow: SEO Machine analyze-existing
