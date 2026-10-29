@@ -5,7 +5,7 @@
     {
       "slug": "dji-mavic-4-pro-fly-more-combo-ili-baza",
       "scope": "full-editorial-review",
-      "status": "ready-for-quality-check",
+      "status": "published-production",
       "machineDraft": "rewrites/dji-mavic-4-pro-fly-more-combo-ili-baza-rewrite-2026-10-28.md",
       "originalPublicationDate": "2026-05-13",
       "originalImage": "/blog-images/signal-blog-dji-mavic-4-pro-fly-more-combo-ili-baza-cover.png",
@@ -46,12 +46,15 @@
             "href": "/catalog/drony/dji-mavic"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-29T07:48:11Z",
+      "sourceCommit": "8c71f57b742f587944802af27ac04f8b9cb6dba0",
+      "image": "sha256:bc612180abf4f9bd5426688ec602ff649e1f419ee68d620d2703b51211780ab5"
     },
     {
       "slug": "dji-neo-2-fly-more-combo-ili-baza",
       "scope": "full-editorial-review",
-      "status": "ready-for-quality-check",
+      "status": "published-production",
       "machineDraft": "rewrites/dji-neo-2-fly-more-combo-ili-baza-rewrite-2026-10-28.md",
       "originalPublicationDate": "2026-07-01",
       "originalImage": "/blog-images/signal-blog-dji-mini-5-pro-vs-dji-neo-2-cover.png",
@@ -88,12 +91,15 @@
             "href": "/catalog/drony/dji/dji-neo"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-29T07:48:11Z",
+      "sourceCommit": "8c71f57b742f587944802af27ac04f8b9cb6dba0",
+      "image": "sha256:bc612180abf4f9bd5426688ec602ff649e1f419ee68d620d2703b51211780ab5"
     },
     {
       "slug": "dji-mini-5-pro-fly-more-combo-plus-ili-baza",
       "scope": "full-editorial-review",
-      "status": "ready-for-quality-check",
+      "status": "published-production",
       "machineDraft": "rewrites/dji-mini-5-pro-fly-more-combo-plus-ili-baza-rewrite-2026-10-28.md",
       "originalPublicationDate": "2026-05-13",
       "originalImage": "/blog-images/signal-blog-dji-mini-5-pro-fly-more-combo-plus-ili-baza-cover.png",
@@ -124,12 +130,15 @@
             "href": "/catalog/drony/dji-mini"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-29T07:48:11Z",
+      "sourceCommit": "8c71f57b742f587944802af27ac04f8b9cb6dba0",
+      "image": "sha256:bc612180abf4f9bd5426688ec602ff649e1f419ee68d620d2703b51211780ab5"
     },
     {
       "slug": "dji-air-3s-fly-more-combo-ili-baza",
       "scope": "full-editorial-review",
-      "status": "ready-for-quality-check",
+      "status": "published-production",
       "machineDraft": "rewrites/dji-air-3s-fly-more-combo-ili-baza-rewrite-2026-10-28.md",
       "originalPublicationDate": "2026-07-01",
       "originalImage": "/blog-images/signal-blog-dji-air-3s-ili-dji-mini-5-pro-cover-live.jpg",
@@ -155,12 +164,15 @@
             "href": "/catalog/drony/dji"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-29T07:48:11Z",
+      "sourceCommit": "8c71f57b742f587944802af27ac04f8b9cb6dba0",
+      "image": "sha256:bc612180abf4f9bd5426688ec602ff649e1f419ee68d620d2703b51211780ab5"
     },
     {
       "slug": "dji-osmo-pocket-4-stoit-li-pokupat",
       "scope": "full-editorial-review",
-      "status": "ready-for-quality-check",
+      "status": "published-production",
       "machineDraft": "rewrites/dji-osmo-pocket-4-stoit-li-pokupat-rewrite-2026-10-28.md",
       "originalPublicationDate": "2026-06-10",
       "originalImage": "/blog-images/signal-blog-dji-osmo-pocket-4-stoit-li-pokupat-cover.png",
@@ -198,12 +210,15 @@
           }
         ],
         "category": "photo-video"
-      }
+      },
+      "publishedAt": "2026-10-29T07:48:11Z",
+      "sourceCommit": "8c71f57b742f587944802af27ac04f8b9cb6dba0",
+      "image": "sha256:bc612180abf4f9bd5426688ec602ff649e1f419ee68d620d2703b51211780ab5"
     },
     {
       "slug": "dji-air-3s-ili-dji-air-3",
       "scope": "h1-only",
-      "status": "ready-for-quality-check",
+      "status": "published-production",
       "originalPublicationDate": "2026-07-31",
       "originalImage": "/blog-images/dji-air-3s-ili-dji-air-3-cover-v2.jpg",
       "beforeContentSha256": "5a7d78441efca64ea7196d8111733da6cfc67bc5f46c613f8a731ea36906ce24",
@@ -212,7 +227,10 @@
       "sources": [],
       "patch": {
         "title": "DJI Air 3S или DJI Air 3: сравнение дронов"
-      }
+      },
+      "publishedAt": "2026-10-29T07:48:11Z",
+      "sourceCommit": "8c71f57b742f587944802af27ac04f8b9cb6dba0",
+      "image": "sha256:bc612180abf4f9bd5426688ec602ff649e1f419ee68d620d2703b51211780ab5"
     }
   ]
 }
